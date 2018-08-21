@@ -1,0 +1,1 @@
+Solving a boundary value differential equation using the shooting method and brentq scipy function.

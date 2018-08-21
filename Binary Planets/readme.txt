@@ -1,0 +1,1 @@
+Project simulating a 3 body problem (a binary star system with an orbiting planet)
